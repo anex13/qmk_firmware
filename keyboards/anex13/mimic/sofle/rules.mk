@@ -1,0 +1,3 @@
+ENCODER_MAP_ENABLE = yes
+SERIAL_DRIVER = vendor
+POINTING_DEVICE_DRIVER = cirque_pinnacle_i2c
